@@ -38,4 +38,5 @@ public class baekjoon2745 {
         br.close();
         bw.close();
     }
+
 }
